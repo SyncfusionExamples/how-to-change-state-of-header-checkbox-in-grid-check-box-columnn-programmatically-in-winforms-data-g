@@ -30,4 +30,4 @@ else if (headerState == CheckState.Unchecked)
 }
 ```
 
-Take a moment to peruse the [WinForms DataGrid - Check Box Column](https://help.syncfusion.com/windowsforms/datagrid/columntypes#gridcheckboxcolumn), where you can find about GridCheckBoxColumn, with code examples.
+Take a moment to peruse the [WinForms DataGrid - GridCheckBoxColumn](https://help.syncfusion.com/windowsforms/datagrid/columntypes#gridcheckboxcolumn), where you can find about GridCheckBoxColumn, with code examples.
